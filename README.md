@@ -14,5 +14,5 @@ FIIS-UNI
 
 Archivos:
   - algoritmo.py --> Explicación dl método expuesto en el paper
-  - hmecrypt.py	--> Implementación de los métodos de encriptación
+  - hmencrypt.py	--> Implementación de los métodos de encriptación
   - prueba.py --> Script que muestra la utilización de hmencrypt.py
